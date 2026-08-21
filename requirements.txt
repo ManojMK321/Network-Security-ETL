@@ -4,5 +4,5 @@ numpy
 pymongo
 certifi
 dnspython
-
+scikit-learn
 ##-e .# will trigger ther setup.py file 
