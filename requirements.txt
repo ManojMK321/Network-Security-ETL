@@ -3,6 +3,6 @@ pandas
 numpy
 pymongo
 certifi
-
+dnspython
 
 ##-e .# will trigger ther setup.py file 
